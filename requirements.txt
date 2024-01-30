@@ -34,5 +34,3 @@ six==1.16.0
 tifffile==2023.12.9
 urllib3==2.1.0
 Werkzeug==3.0.1
-fastapi==0.68.2
-uvicorn==0.15.0
